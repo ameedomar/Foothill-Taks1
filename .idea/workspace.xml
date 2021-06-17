@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d211793-827b-47d8-8774-5237c36b34f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RWD/rwd.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RWD.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RWD.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/natural.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels-lukas-590022.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Design Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
