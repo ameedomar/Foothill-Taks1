@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d211793-827b-47d8-8774-5237c36b34f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RWD.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RWD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RWD/rwd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RWD.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RWD.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +40,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RWD" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\FTS\Traning\Foothill-Taks1\RWD" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -57,7 +65,8 @@
       <workItem from="1623575121382" duration="239000" />
       <workItem from="1623577345208" duration="12879000" />
       <workItem from="1623670941782" duration="242000" />
-      <workItem from="1623830066957" duration="3314000" />
+      <workItem from="1623830066957" duration="4223000" />
+      <workItem from="1623924114283" duration="3767000" />
     </task>
     <servers />
   </component>
@@ -74,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="211" y="8" width="1178" height="809" key="CommitChangelistDialog2" timestamp="1623671156956">
